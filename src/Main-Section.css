@@ -1,0 +1,49 @@
+.Main{
+    background-image: url(background.jpg);
+}
+
+.Navbutton{
+    
+    margin-right:48.5em;
+    position:relative;
+    right: 14.5em;
+}
+
+.Signup{
+    position:relative;
+    top:8em;
+}
+
+.Maintext{
+    display:inline-block;
+    position:absolute;
+    top: 15em;
+    right:20em;
+}
+
+h1{
+    font-size: 3em;
+}
+
+.par1{
+    
+    position:relative;
+}
+
+.subMaintext{
+    margin-top: 2em;
+}
+
+
+.input1{
+    width:40em;
+    height:4em;
+}
+.input2{
+    width: 10em;
+    height:4.2em;
+    background-color: red;
+    color: white;
+    font-size: medium;
+    border-radius: 5px;
+}

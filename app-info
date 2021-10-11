@@ -1,0 +1,10 @@
+nvm use 12.18.3 , to update node version
+needed npm install joi (Joi allows us to create blueprints of Javascript objects that ensure that we process and ultimately accept accurate data.)
+
+upgrade to fsevents 2
+Install redux
+framer-motion
+react-router-dom
+Must modify for customization of store
+'/features/counter/counterSlice'
+'/app/store'

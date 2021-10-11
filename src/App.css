@@ -1,0 +1,103 @@
+.App {
+  text-align: center;
+}
+
+
+
+
+/*Lang SEl*/
+
+
+/*.Lang{
+        
+        
+  position:absolute;
+  left:1100px;
+  top:10px;
+  
+
+}*/
+
+/*.selector{
+  display:block;
+  height:30px;
+  width:80px;
+
+
+}*/
+
+
+
+/*Lang SEl*/
+/*TESTING PROPS*/
+
+/*.Sign{
+  display:inline-block;
+  position:absolute;
+  left:1200px;
+  top:10px;
+  
+  
+
+}
+
+.SignButton{
+  height:50px;
+  width:70px;
+ 
+  
+  background-color: red;
+  border-radius: 5px;
+  border:red;
+
+}*/
+/*
+.SignText{
+  
+  margin:inherit
+}*/
+
+/*TESTING PROPS*/
+
+
+
+/*.App-logo {
+  
+  display: inline-block;
+  width:200px;
+  height:100px;
+  position: absolute;
+  left: 20px; right:561; top: 0; bottom:1198;
+  pointer-events: none;
+  pointer-events: none;
+}*/
+
+/*@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}*/
+
+.App-header {
+  
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+/*@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}*/

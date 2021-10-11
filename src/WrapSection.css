@@ -1,0 +1,13 @@
+h1,p{
+    color:ivory;
+}
+
+/*Create panel classes for texts on segments*/
+
+.panel1{
+    margin-top: 10em;
+}
+
+.panel2{
+    margin-top: 8em;
+}

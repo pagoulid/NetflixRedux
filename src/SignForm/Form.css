@@ -1,0 +1,79 @@
+
+.Formlogo{
+    position:absolute;
+    width:50%;
+    height:50%;
+    top:-4em;
+    right:40em;
+    margin-bottom: 10em;
+    
+}
+section{
+
+    width:1294px;
+    height:637px;
+    background-color: black;
+}
+.Formblock{
+    display:inline-block;
+    background-color:blue;
+    width:290px;
+    
+    
+}
+/*How to form in a formbox without disrupting body,html dimensions*/
+.Form{
+   
+    display:flex;
+    
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.Namelabel{
+    
+    padding-left: 1em;
+    
+}
+
+
+.Pswdlabel{
+    
+    padding-left: 0.3em;
+    
+}
+/*Align labels with their fields*/
+ p{
+    display:inline-block;
+    
+}
+
+/*.Namelabel p{
+    display:inline-block;
+    
+}
+
+.Pswdlabel p{
+    display:inline-block;
+}*/
+
+.Btn{
+    
+    align-self:center;   
+}
+/*
+.Namefield{
+    flex-grow:1;
+    
+}
+
+.Pswdlabel{
+    flex-grow:1;
+    
+}
+
+.Pswdfield{
+    flex-grow:1;
+    
+}*/

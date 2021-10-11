@@ -1,0 +1,16 @@
+.Section{
+    
+    background-color: black;
+    height:30em;
+    margin-top:0.5em;
+}
+h1{
+    margin-top: inherit;
+    margin-bottom: 0px;
+    position:relative;
+}
+
+.subSec2{
+    display:inline-block;
+    background-color: grey;
+}

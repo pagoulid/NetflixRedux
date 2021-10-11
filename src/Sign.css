@@ -1,0 +1,21 @@
+
+/*position:absolute;
+  top:1em;
+  left:90em;*/
+.SignButton{
+  height:50px;
+  width:70px;
+  
+ 
+  
+  background-color: red;
+  border-radius: 5px;
+  border:red;
+  
+
+}
+
+.SignText{
+  
+  margin:inherit;
+}
